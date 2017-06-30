@@ -1,0 +1,26 @@
+body{
+    margin-left: 20%;
+}
+#display{
+    width: 600px;
+    height: 300px;
+    border: 1px solid black;
+    float: left;
+    overflow: hidden;
+
+}
+
+#imgs{
+    clear:both;
+    position: relative;
+    top:0;
+    width:100%;
+    z-index: 0;
+}
+
+img{
+    width: 800px;
+    display: inline;
+}
+
+
